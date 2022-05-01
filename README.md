@@ -5,4 +5,4 @@ Development tools icons to be used in "Stream Deck"
 
 Created by: Ricardo Mesa Gallego
 
-Twitter: [@Rimesa](https://twitter.com/rimega)
+Twitter: [@Rimega](https://twitter.com/rimega)
